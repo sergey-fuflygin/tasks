@@ -5,7 +5,7 @@ from Article
 --2	Lermontov
 --3	Lomonosov
 --4	Pifagor
---5		Mendeleev
+--5	Mendeleev
 
 select *
 from Tag
